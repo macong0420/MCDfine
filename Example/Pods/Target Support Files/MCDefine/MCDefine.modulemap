@@ -1,0 +1,6 @@
+framework module MCDefine {
+  umbrella header "MCDefine-umbrella.h"
+
+  export *
+  module * { export * }
+}

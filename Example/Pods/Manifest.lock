@@ -1,0 +1,16 @@
+PODS:
+  - MCDefine (0.1.0)
+
+DEPENDENCIES:
+  - MCDefine (from `../`)
+
+EXTERNAL SOURCES:
+  MCDefine:
+    :path: ../
+
+SPEC CHECKSUMS:
+  MCDefine: 542786072266de6a2e11d431e6010b1bf70a7151
+
+PODFILE CHECKSUM: 064e697ace8d0a2b8df3f4dc58c6fd9772b6eade
+
+COCOAPODS: 1.4.0
