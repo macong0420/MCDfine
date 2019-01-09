@@ -1,0 +1,6 @@
+use_frameworks!
+target 'MCDefine_Tests' do
+  pod 'MCDefine', :path => '../'
+  
+  
+end
